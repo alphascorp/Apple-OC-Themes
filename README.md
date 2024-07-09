@@ -8,9 +8,9 @@
 
 ## :warning: First Use ➤  Change `config.plist` in `EFI/OC`
 
-### Set PickerVariant (Apple_jing_an theme for example)
+### Set PickerVariant (Apple_SequoiaLight theme for example)
 
-- Misc —> Boot —> PickerVariant: Alphascorp\Apple_jing_an
+- Misc —> Boot —> PickerVariant: Alphascorp\Apple_SequoiaLight
 
 ### Set PickerAttributes
 
@@ -34,7 +34,7 @@
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\Apple_jing_an</string>
+    <string>Alphascorp\Apple_SequoiaLight</string>
     
     …
           
@@ -47,14 +47,14 @@
 ## Apple themes view
 
 
+  - Apple_jing_an :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_jing_an.zip))
+<p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_jing_an_BootView.jpg"></p>
+   
   - Apple_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SequoiaLight.zip))
 <p align="center"><img width="800" alt="Apple_SequoiaLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SequoiaLight_BootView.jpg"></p>
    
   - Apple_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SequoiaDark.zip))
 <p align="center"><img width="800" alt="Apple_SequoiaDark Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SequoiaDark_BootView.jpg"></p>
-   
-  - Apple_jing_an :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_jing_an.zip))
-<p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_jing_an_BootView.jpg"></p>
    
   - Apple_SonomaLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SonomaLight.zip))
 <p align="center"><img width="800" alt="Apple_SonomaLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SonomaLight_BootView.jpg"></p>
