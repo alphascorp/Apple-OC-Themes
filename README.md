@@ -74,6 +74,12 @@
   - Apple_MontereyDark :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_MontereyDark.zip))
 <p align="center"><img width="800" alt="Apple_MontereyDark Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_MontereyDark_BootView.jpg"></p>
    
+  - Apple_BigSurLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_BigSurLight.zip))
+<p align="center"><img width="800" alt="Apple_BigSurLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_BigSurLight_BootView.jpg"></p>
+   
+  - Apple_BigSurDark :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_BigSurDark.zip))
+<p align="center"><img width="800" alt="Apple_MontereyDark Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_BigSurDark_BootView.jpg"></p>
+  
 
 ## Credits:
 
