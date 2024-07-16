@@ -47,8 +47,8 @@
 ## Apple themes view
 
 
-  - Apple_jing_an :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_jing_an.zip))
-<p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_jing_an_BootView.jpg"></p>
+  - Apple_Jing_An :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_Jing_An.zip))
+<p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_Jing_An_BootView.jpg"></p>
    
   - Apple_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SequoiaLight.zip))
 <p align="center"><img width="800" alt="Apple_SequoiaLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SequoiaLight_BootView.jpg"></p>
