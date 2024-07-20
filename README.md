@@ -48,7 +48,7 @@
 
 
   - Apple_Jing_An :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_Jing_An.zip))
-<p align="center"><img width="800" alt="Apple_Jing_An Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_Jing_An_BootView.jpg"></p>
+<p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_Jing_An_BootView.jpg"></p>
    
   - Apple_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SequoiaLight.zip))
 <p align="center"><img width="800" alt="Apple_SequoiaLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SequoiaLight_BootView.jpg"></p>
@@ -61,6 +61,9 @@
    
   - Apple_SonomaDark :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_SonomaDark.zip))
 <p align="center"><img width="800" alt="Apple_SonomaDark Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_SonomaDark_BootView.jpg"></p>
+   
+  - Apple_MtHood :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_MtHood.zip))
+<p align="center"><img width="800" alt="Apple_MtHoodMac Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_MtHood_BootView.jpg"></p>
    
   - Apple_VenturaLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_VenturaLight.zip))
 <p align="center"><img width="800" alt="Apple_VenturaLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/blob/main/Screenshots/Apple_VenturaLight_BootView.jpg"></p>
