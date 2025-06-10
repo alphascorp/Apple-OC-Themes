@@ -8,9 +8,9 @@
 
 ## :warning: First Use ➤  Change `config.plist` in `EFI/OC`
 
-### Set PickerVariant (Apple_SequoiaLight theme for example)
+### Set PickerVariant (Apple_TahoeLight theme for example)
 
-- Misc —> Boot —> PickerVariant: Alphascorp\Apple_SequoiaLight
+- Misc —> Boot —> PickerVariant: Alphascorp\Apple_TahoeLight
 
 ### Set PickerAttributes
 
@@ -34,7 +34,7 @@
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\Apple_SequoiaLight</string>
+    <string>Alphascorp\Apple_TahoeLight</string>
     
     …
           
@@ -46,6 +46,12 @@
 
 ## Apple themes view
 
+
+  - Apple_TahoeLight :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_TahoeLight.zip))
+<p align="center"><img width="800" alt="Apple_TahoeLight Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_TahoeLight_BootView.jpg"></p>
+   
+  - Apple_TahoeDark :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_TahoeDark.zip))
+<p align="center"><img width="800" alt="Apple_TahoeDark Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_TahoeDark_BootView.jpg"></p>
 
   - Apple_Jing_An :point_right: ([Download](https://github.com/alphascorp/Apple-OC-Themes/raw/main/Themes/Apple_Jing_An.zip))
 <p align="center"><img width="800" alt="Apple_jing_an Screenshot" src="https://github.com/alphascorp/Apple-OC-Themes/raw/main/Screenshots/Apple_Jing_An_BootView.jpg"></p>
