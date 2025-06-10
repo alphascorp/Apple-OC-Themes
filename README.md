@@ -92,8 +92,11 @@
 
 ## Credits:
 
-Thanks [chriss1111](https://github.com/chris1111/)
+Thanks to [chriss1111](https://github.com/chris1111/)
 for [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-Thanks [Basic Apple Guy](https://basicappleguy.com/)
+Thanks to [Basic Apple Guy](https://basicappleguy.com/)
 for [Mt. Hood Vision Pro Wallpaper](https://basicappleguy.com/basicappleblog/mthoodwallpaper)
+
+Thanks to [Apple](https://www.apple.com/os/macos/)
+for macOS wallpapers
